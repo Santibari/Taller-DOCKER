@@ -1,5 +1,9 @@
 # Taller de Docket
 
+## Hecho por:
+- Santiago Bazzani 
+- Andres Beltran 
+
 ## Creacion de imagen y uso de docker primera parte
 
 ![alt text](image.png)
