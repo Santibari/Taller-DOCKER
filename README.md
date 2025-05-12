@@ -3,6 +3,7 @@
 ## Hecho por:
 - Santiago Bazzani 
 - Andres Beltran 
+- Anthony Nope
 
 ## Creacion de imagen y uso de docker primera parte
 
